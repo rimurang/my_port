@@ -1,0 +1,138 @@
+@charset "utf-8";
+
+@media all and (max-width:1450px){
+	#header_top{padding:0 30px}
+	#profile_wrp{padding:20px 30px 30px}
+	#profile_wrp .intro_wrp .pfl_txt ul .sml{width:50%}
+	#profile_wrp .intro_wrp .pfl_txt ul em{display:block}
+	#portfol_wrp.subp{padding:0 20px 20px}
+	#portfol_wrp .port_list li{width:50%;-webkit-transition:all 0.8s;-moz-transition:all 0.8s;-ms-transition:all 0.8s;-o-transition:all 0.8s;transition:all 0.8s}
+	#profile_wrp .intro_wrp .pfl_txt .smlinf li,#profile_wrp .intro_wrp .pfl_txt .smlinf li.longw{width:50%}
+	#mainroll_wrp{padding:0 30px}
+	.mainroll .swiperwrp img{width:770px;margin-top:60px}
+	.mainroll .v_portgo span,.mainroll .v_portgo:hover span{padding:7px 95px 40px 45px}
+	.mainroll .v_portgo i{top:18px}
+	.mainroll .swiperwrp .con_tit{font-size:45px}
+	.mainroll .v_portgo{bottom:0}
+}
+
+@media all and (max-width:1280px){
+	.mainroll .swiperwrp .con_tit{font-size:38px}
+	.mainroll .swiperwrp .info{top: 150px;}
+	#mainroll_wrp{padding:0}
+	#mainroll_wrp .whitebxx,#portfol_wrp .whitebxx{display:none}
+	.mainroll .m_slide{text-align:center;}
+	.mainroll .swiperwrp{text-align:center}
+	.mainroll .swiperwrp .con_tit,.mainroll .swiperwrp .info{text-align:center;position: static;top: auto;padding: 50px 0 30px;}
+	.mainroll .swiperwrp .info{padding:0 80px 30px;min-height:80px;font-size:18px;/* text-align: center; */}
+	.mainroll .swiperwrp p br{display:none}
+	.mainroll .swiperwrp img{width:80%;margin: 0 auto 0;max-width:580px;margin-top:15px;}
+	.mainroll .v_portgo{width:100%;bottom:0}
+	.mainroll .v_portgo span,.mainroll .v_portgo:hover span{padding:7px 0 20px 0}
+	.mainroll .v_portgo i{right:50px}
+	.mainroll .v_portgo{position:inherit}
+	.mainroll .bx-controls{bottom:inherit;top:0px;left:0;right:0}
+	#profile_wrp .intro_wrp .bigb_left{width: 250px}
+    #profile_wrp .intro_wrp .pfl_txt .hstag{padding:15px 0 16px 45px}
+    #profile_wrp .intro_wrp .pfl_txt{margin:0 0 0 250px}
+    #profile_wrp .intro_wrp .pfl_txt .biginf{padding:20px 16px 0 16px;margin:0 0 15px}
+    #profile_wrp .intro_wrp .pfl_txt .biginf li{padding:0 20px 17px 50px;margin-left:0}
+
+}
+
+@media (max-width:1024px){
+	body, div, h1, h2, dl, dt, dd, ul, li, p, table, button, select, input{font-size:15px}
+	#header_top{padding:0 20px;background-color:rgba(255,255,255,0.98);-webkit-box-shadow:0px 0px 10px 0px rgba(34, 34, 34, 0.1);-moz-box-shadow:0px 0px 10px 0px rgba(34, 34, 34, 0.1);-ms-box-shadow:0px 0px 10px 0px rgba(34, 34, 34, 0.1);-o-box-shadow:0px 0px 10px 0px rgba(34, 34, 34, 0.1);box-shadow:0px 0px 10px 0px rgba(34, 34, 34, 0.1)}
+	#maincont{padding:90px 0 0 0}
+	#mainroll_wrp,#rimuboard{padding:0 20px}
+	#profile_wrp{padding:30px 20px 0}
+    #profile_wrp h3{font-size:27px;padding:10px 0 0 32px}
+    #profile_wrp .intro_wrp .pfl_txt .biginf li {padding:0 20px 17px 16px;margin-left: 0;}
+    #profile_wrp .intro_wrp .pfl_txt .biginf p{font-size:13px}
+    #profile_wrp .intro_wrp .pfl_txt .biginf .scl,#profile_wrp .intro_wrp .pfl_txt .smlinf h4,#profile_wrp .intro_wrp .pfl_txt .smlinf li{font-size:15px}
+	#profile_wrp .intro_wrp .pfl_txt .hstag {padding: 15px 0 16px 33px;}
+	#profile_wrp .intro_wrp .smlbox .dico{bottom:inherit;top:28px}
+	#portfol_wrp{padding:75px 20px 00px}
+	#portfol_wrp h2{font-size:27px;width:100%;margin:0 auto 20px;padding-top:0}
+	#portfol_wrp .port_list {margin:0 0 0 -25px}
+	#portfol_wrp .port_list li a{margin-left:25px}
+	#profile_wrp .intro_wrp .smlbox a{font-size:15px}
+	#profile_wrp .intro_wrp .smlbox .bico{margin:10px 0 0 10px}
+	#profile_wrp .intro_wrp .smlbox em{padding:8px 10px 10px}
+	#profile_wrp .contain{padding:0}
+	#portfol_wrp .port_list li .pj_type span{display:none}
+	/*#portfol_wrp .port_list li .pj_type br{display:block}*/
+	#profile_wrp .intro_wrp .pfl_txt .biginf .scl{padding:0 0 0 100px}
+	#profile_wrp .intro_wrp .pfl_txt .smlinf{padding:10px 20px 20px 20px}
+	#portfol_wrp h2:before{width:34px;height:3px;margin:0 auto;background-color:#6d6d6d;background-image:inherit;left:43%;right:43%;top:43px}
+	#profile_wrp .intro_wrp .pfl_txt .biginf h4{margin-left:0;background-position:0 3px}
+	#profile_wrp .intro_wrp .pfl_txt .smlinf h4{padding:0 0 5px}
+	#profile_wrp{
+		-webkit-box-shadow:0px 0px 8px 0px rgba(210,210,210,1);
+		-moz-box-shadow:0px 0px 8px 0px rgba(210,210,210,1);
+		-ms-transform:0px 0px 8px 0px rgba(210,210,210,1);
+		-o-transform:0px 0px 8px 0px rgba(210,210,210,1);
+		box-shadow:0px 0px 8px 0px rgba(210,210,210,1)}
+	.port_more{margin:30px 0 30px}
+	
+
+}
+@media all and (max-width:900px){
+	#portfol_wrp {padding:20px 20px 00px}
+	.mainroll .swiperwrp .info{padding:0 20px 20px;font-size:15px}
+}
+
+
+@media all and (max-width:768px){
+	#profile_wrp .bigb_left h3,#portfol_wrp h2,#rimuboard h2{font-size:20px}
+	#profile_wrp .bigb_left .hstag{padding-top:15px}
+/*	#profile_wrp .bigb_left .hstag span{display:block}*/
+	#profile_wrp .pfl_txt h3,#profile_wrp .pfl_txt .hstag{display:none}
+	/*#profile_wrp .intro_wrp .pfl_txt ul{padding:0}*/
+	#profile_wrp .intro_wrp .pfl_txt{margin:0}
+	#profile_wrp .intro_wrp .pfl_txt ul li.career {padding:20px 15px 17px;margin-left:0}
+	#profile_wrp .intro_wrp .bigb_left{position:inherit;width:100%}
+	#profile_wrp .intro_wrp .prof_img{width:200px;float:right}
+	#profile_wrp .intro_wrp .bigb_left .mb_tit{display:block;float:left;width:50%}
+	#profile_wrp .bigb_left h3,#profile_wrp .bigb_left .hstag{padding-left:0}
+	#profile_wrp .intro_wrp .pfl_txt .smlinf{padding:0}
+	.mainroll .swiperwrp img{width:80%;min-width:320px;margin:0 auto 0}
+	.mainroll .swiperwrp p {text-align:center}
+	.mainroll .swiperwrp br {display:none}
+	.port_more a{padding:12px 0;width:80%;margin:0 auto}
+	#rimuboard .faqtab li em{display:none}
+	#rimuboard .faqtab li p{padding:10px 50px 10px 15px}
+	#rimuboard .faqtab li .answr{padding:15px 15px}
+	#profile_wrp .intro_wrp .prof_img.mp_pc{display:none}
+	#profile_wrp .intro_wrp .prof_img.mp_mb{display:block;width: auto;position: absolute;right: 0;z-index: 1}
+	#profile_wrp .intro_wrp .smlbox{display: none}
+
+    
+}
+@media all and (max-width:640px){
+	#profile_wrp .intro_wrp .bigb_left .mb_tit,#profile_wrp .intro_wrp .prof_img.mp_pc{width:100%}
+	#profile_wrp .bigb_left .hstag span{display:inline-block}
+	#profile_wrp .bigb_left .hstag{padding:5px 0 10px 0}
+	#header_top a img{width:70px}
+	#header_top{padding:0 10px}
+	.mainroll .swiperwrp .con_tit br{display:block} 
+	.mainroll .swiperwrp p.con_tit{font-size:25px;padding: 35px 0 14px;}
+	.mainroll .swiperwrp .info{padding:0 7px 20px}
+	.mainroll .swiperwrp .con_tit{line-height:1.4em}
+	#portfol_wrp .port_list li{width:100%}
+	#portfol_wrp .port_list{margin:0;padding:15px 0 0;}
+	#portfol_wrp .port_list li .pj_tit{margin:0 0 4px 0}
+	#portfol_wrp .port_list li .pj_type{font-size:14px;margin:0 0 5px}
+	#portfol_wrp .port_list li{border:1px solid #d6d6d6;padding:0;background-color:#fff;margin-top:8px;margin-top:7px}
+	#portfol_wrp .port_list li a{margin:0;padding:15px}
+	#portfol_wrp .port_list li .pjimg{border-bottom:1px solid #cecece;margin:0 0 15px}
+	#portfol_wrp .port_list li .pj_date{font-size:14px;padding:0}
+}
+@media all and (max-width:430px){
+	#maincont{padding:65px 0 0 0}
+	#profile_wrp .intro_wrp .pfl_txt ul .sml{width:100%}
+	#profile_wrp .intro_wrp .pfl_txt ul .sml br{display:none}
+	#header_top ul li a{padding:0 13px;font-size:15px}
+	#header_top nav,#header_top h1{padding:15px 0}
+	#profile_wrp .bigb_left .hstag span{display:block;font-size: 13px;line-height: 17px;}
+}
