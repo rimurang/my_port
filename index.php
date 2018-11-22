@@ -1,6 +1,5 @@
 <? include 'logic.php'; ?>
 
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -14,7 +13,7 @@
     <meta name="author" content="김혜림">
     <meta name="copyright" content="copyright@rimurang.pe.kr" />
 
-    <title>김혜림 포트폴리오</title>
+    <title>김혜림 포트폴리오 </title>
     
     <!-- style -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
